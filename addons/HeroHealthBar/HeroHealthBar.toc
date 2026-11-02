@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: HeroHealthBar
+## Notes: A plain health bar under your hero, mid-screen. /hpbar for options.
+## Author: local
+## Version: 1.0
+## SavedVariables: HeroHealthBarDB
+HeroHealthBar.lua
